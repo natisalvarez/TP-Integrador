@@ -1,5 +1,4 @@
-# TP Integrador - Computación Aplicada
-# Grupo 6
+# TP Integrador - Computación Aplicada - Grupo 6
 
 Integrantes del grupo: Natalia Soledad Álvarez / Micaela Cecilia Omahna
 
